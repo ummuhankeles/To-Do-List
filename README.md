@@ -1,3 +1,11 @@
-# To-Do-List
+# To Do List with JS
 
-## https://codepen.io/ummuhankeles/pen/xxRaKqd
+### App Info
+You can do with this app:
+* add item
+* delete item
+* update item
+
+### Codepen Link
+[Codepen](https://codepen.io/ummuhankeles/pen/xxRaKqd)
+
